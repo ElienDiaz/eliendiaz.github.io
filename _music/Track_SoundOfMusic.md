@@ -5,5 +5,5 @@ description: A multitrack project of the Sound of Music, as arranged by David Wr
 redirect: https://soundcloud.com/elie-diaz-965006234/sound-of-music
 importance: 1
 category: Tracks
-selected: true
+selected: false
 ---

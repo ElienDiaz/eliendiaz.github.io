@@ -7,5 +7,5 @@ img:
 importance: 3
 category: Tracks
 related_publications: true
-selected: true
+selected: false
 ---
