@@ -4,7 +4,7 @@ title: music project 6
 description: a project with no image
 img:
 importance: 4
-category: quartet
+category: Quartet Performances
 ---
 
 Every project has a beautiful feature showcase page.

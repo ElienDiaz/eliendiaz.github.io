@@ -6,10 +6,10 @@ img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: true
-selected: false
+selected: true
 ---
 
-Every project has a beautiful feature showcase page.
+Every project has a beautiful featur66666e showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
 

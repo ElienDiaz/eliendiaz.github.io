@@ -3,10 +3,38 @@ layout: default
 ---
 <!-- page.html -->
 <div class="post">
+  
 
   <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-description">{{ page.description }}</p>
+    <div class="profile float-right">
+      {%- if page.image %}
+      {%- assign profile_image_path = page.image | prepend: 'assets/img/' -%}
+      
+      {% if page.image_circular %}
+      {%- assign profile_image_class = "img-fluid z-depth-1 rounded-circle" -%}
+      {% else %}
+      {%- assign profile_image_class = "img-fluid z-depth-1 rounded" -%}
+      {% endif %}
+      
+      {% capture sizes %}(min-width: {{site.max_width}}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw"{% endcapture %}
+      
+      {% include figure.html
+        path = profile_image_path
+        class = profile_image_class
+        sizes = sizes
+        alt = page.image
+        %}
+      {% endif -%}
+      {%- if page.image_caption %}
+        <div class="caption">
+          {{ page.image_caption }}
+        </div>
+      {%- endif %}
+    </div>
+    <div class="clearfix">
+      <h1 class="post-title">{{ page.title }}</h1>
+      <p class="post-description">{{ page.description }}</p>
+    </div>
   </header>
 
   <article>

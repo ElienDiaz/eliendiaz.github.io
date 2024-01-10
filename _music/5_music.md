@@ -4,7 +4,7 @@ title: music project 5
 description: a project with a background image
 img: assets/img/1.jpg
 importance: 3
-category: quartet
+category: Quartet Performances
 ---
 
 Every project has a beautiful feature showcase page.

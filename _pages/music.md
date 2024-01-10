@@ -2,11 +2,20 @@
 layout: page
 title: Music
 permalink: /music/
-description: A growing collection of your cool projects.
+description: >
+  <p>Sometimes I make music!</p> 
+
+  <p>I have experience with vocal music, piano, and some arranging! 
+  These days, however, the bulk of my musical efforts goes into performing with 
+  my quartet Mischief and with making Multitracks for part learning.</p>
+
+image: mischief_cover.jpg
+image_circular: false
+image_caption: This is my current quartet, Mischief!
 
 nav: true
 nav_order: 3
-display_categories: [tracks, quartet]
+display_categories: [Quartet Performances, Tracks]
 horizontal: false
 ---
 
