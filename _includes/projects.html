@@ -1,7 +1,7 @@
 <!-- _includes/projects.html -->
 <div class="grid-sizer"></div>
 <div class="grid-item">
-  {% if project.redirect -%}
+  {% if Project.redirect -%}
   <a href="{{ project.redirect }}">
     {%- else -%}
     <a href="{{ project.url | relative_url }}">
