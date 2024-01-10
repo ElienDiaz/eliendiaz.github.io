@@ -2,96 +2,71 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Elie Ricardo Diaz
     - name: Languages
-      value: English, German
+      value: English, Spanish
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Computing
+      institution: University of Utah
+      year: Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Graphics and Visualization Track
+        - Expected Graduation, Fall 2025
+
+    - title: Master of Science in Computer Science
+      institution: Georgia Institute of Technology
+      year: 2021
       description:
-        - Description 1.
-        - Description 2.
+        - Emphasis on Computer Graphics
+      
+    - title: Bachelor of Science in Computer Science
+      institution: Georgia Institute of Technology
+      year: 2019
+      description:
+        - Graduated with Highest Honors
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Assistant for <a href= http://www.cemyuksel.com/>Dr. Cem Yuksel </a>
+      institution: University of Utah
+      year: Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Author on publications and submissions to SIGGRAPH and other Computer Graphics Conferences
+        - Started and participated in various projects for Dr. Yuksel's Lab Group with the goal of publishing in esteemed conferences
+        - Projects have included work on various Simulation Frameworks (MPM, XPBD), Collision Handling, and Rendering
+
+    - title: Roblox Research Intern
+      department: <a href=https://research.roblox.com/> Roblox Research </a>
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
+        - Supervised by Cem Yuksel, Victor Zordan, and Morgan McGuire
+        - Worked on prototypes to solve rendering problems within Roblox
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Computer Graphics Teaching Mentorship
+      institution: University of Utah
+      year: 2022-2023
       description:
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Computer Graphics Graduate Teaching Assistant
+      institution: Georgia Institute of Technology
+      year: 2019-2021
+      description:
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: GT Chamber Choir Student Director
+      institution: Georgia Institute of Technology
+      year: 2016-2021
+
+    - title: Computer Graphics Undergraduate Teaching Assistant
+      institution: Georgia Institute of Technology
+      year: 2018-2019
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2015-Present
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - Gates Millennium Scholar Fellowship
