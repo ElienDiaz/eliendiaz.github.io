@@ -1,11 +1,11 @@
 ---
 layout: page
-title: RMD District Semifinals
-description: Performing Someday and Devil May Care with Mischief Quartet.
-img: mischief_cover.jpg
+title: International Qualifiers 2023
+description: Performing Someday (from Hunchback of Notre Dame) and Devil May Care with Mischief Quartet in September 2023.
+img: assets/img/mischief_cover.jpg
 redirect: https://youtu.be/dTYV-K-6rbo?si=MXQMVbV27Nwkx0bR
 importance: 3
-category: Quartet Performances
+category: Performances
 ---
 
 Every project has a beautiful feature showcase page.

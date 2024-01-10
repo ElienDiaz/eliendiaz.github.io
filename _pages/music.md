@@ -15,7 +15,7 @@ image_caption: This is my current quartet, Mischief!
 
 nav: true
 nav_order: 3
-display_categories: [Quartet Performances, Tracks]
+display_categories: [Performances, Tracks]
 horizontal: false
 ---
 
