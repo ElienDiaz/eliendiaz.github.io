@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
+title: music project 4
 description: another without an image
 img:
 importance: 3
-category: quartet
+category: tracks
 ---
 
 Every project has a beautiful feature showcase page.
