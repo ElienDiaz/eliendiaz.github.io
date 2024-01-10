@@ -9,9 +9,12 @@ description: >
   These days, however, the bulk of my musical efforts goes into performing with 
   my quartet Mischief and with making Multitracks for part learning.</p>
 
+  <p>Read on to find past performances I've been a part of with quartets and choruses, and 
+  for some of the tracks I've created. Feel free to check out my <a href='https://soundcloud.com/elie-diaz-965006234'>soundcloud</a> for more!</p>
+
 image: mischief_cover.jpg
 image_circular: false
-image_caption: This is my current quartet, Mischief!
+image_caption: This is my current quartet, <a href='https://www.facebook.com/Q.Mischief'> Mischief</a>!
 
 nav: true
 nav_order: 3
