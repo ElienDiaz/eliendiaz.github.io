@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Student Researcher with the <a href='https://graphics.cs.utah.edu/'>University of Utah Graphics Lab</a>.
+subtitle: PhD Student - <a href='https://graphics.cs.utah.edu/'>University of Utah Graphics Lab</a>.
 
 profile:
   align: right
@@ -19,8 +19,11 @@ selected_projects: true # includes a list of projects marked as "selected={true}
 project_categories: [projects, music]
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! My name is Elie Diaz, and welcome to my website!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Currently, you'll find me doing research at the University of Utah and working on various graphics projects 
+with the lab there, mostly focusing on physics-based simulation. I have also worked as a Research Intern for Roblox, 
+where I developed a prototype for future Roblox projects! 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+When not at the lab, you'll find me developing skills with my music endeavors, where I compete with several groups in
+the barbershop scene, create multitrack recordings, and arrange music on the side!
