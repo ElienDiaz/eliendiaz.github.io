@@ -2,11 +2,23 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: <p> Most of my projects involve Physics-Based Simulation,
+        but I have worked with some rendering research as well, especially with my work 
+        with Roblox. I have worked extensively with Position-Based Dynamics (PBD) and 
+        continue to work in my lab with projects involving fluid simulation, hair simulation, and 
+        soft body simulation. </p> 
+
+        <p> Here are several projects that have been published with 
+        the <a href=https://graphics.cs.utah.edu/> Graphics Lab </a> at the 
+        University of Utah. </p> 
+
+image: ternary.gif
+image_circular: false
+image_caption: This is an old simulation project where I tried to find a solution to the three body problem!
 
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [University of Utah Graphics Lab]
 horizontal: false
 ---
 
