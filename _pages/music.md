@@ -17,7 +17,7 @@ image_circular: false
 image_caption: This is my current quartet, <a href='https://www.facebook.com/Q.Mischief'> Mischief</a>!
 
 nav: true
-nav_order: 3
+nav_order: 4
 display_categories: [Performances, Tracks]
 horizontal: false
 ---
