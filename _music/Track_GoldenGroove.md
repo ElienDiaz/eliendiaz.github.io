@@ -6,6 +6,5 @@ redirect: https://youtube.com/playlist?list=PLNmbFZ3nUmKkH8PzJ8XIV5Ls5852zMZxc&s
 img:
 importance: 1
 category: Tracks
-related_publications: true
 selected: false
 ---
