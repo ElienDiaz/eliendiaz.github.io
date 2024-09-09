@@ -2,12 +2,12 @@
 layout: page
 title: Strand-Based Hair Rendering
 description: My contribution to this project was in designing and maintaining the PBD simulation that controls the motion of hair meshes and objects.
-img: assets/img/publication_preview/RTHairRendering.jpg
-redirect: https://s2023.siggraph.org/presentation/?id=real_111&sess=sess258
-importance: 2
+img: assets/img/publication_preview/RTHairRenderingPublication.jpg
+redirect: http://cemyuksel.com/research/hairmesh_rendering/
+importance: 1
 category: University of Utah Graphics Lab
 related_publications: true
-selected: false
+selected: true
 ---
 
 Every project has a beautiful featur66666e showcase page.
