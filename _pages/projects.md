@@ -3,8 +3,8 @@ layout: page
 title: Projects
 permalink: /projects/
 description: <p> Most of my projects involve Physics-Based Simulation,
-        but I have worked with some rendering research as well, especially with my work 
-        with Roblox. I have worked extensively with Position-Based Dynamics (PBD) and 
+        but I have worked with some rendering research as well. 
+        I have worked extensively with Position-Based Dynamics (PBD) and 
         continue to work in my lab with projects involving fluid simulation, hair simulation, and 
         soft body simulation. </p> 
 
