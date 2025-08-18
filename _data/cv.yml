@@ -14,7 +14,7 @@
       year: Present
       description:
         - Graphics and Visualization Track
-        - Expected Graduation, Fall 2025
+        - Expected Graduation, Fall 2026
 
     - title: Master of Science in Computer Science
       institution: Georgia Institute of Technology
@@ -28,16 +28,16 @@
       description:
         - Graduated with Highest Honors
 
-- title: Experience
+- title: Computer Science Experience
   type: time_table
   contents:
     - title: Research Assistant for <a href= http://www.cemyuksel.com/>Dr. Cem Yuksel </a>
       institution: University of Utah
-      year: Present
+      year: 2021-Present
       description:
         - Author on publications and submissions to SIGGRAPH and other Computer Graphics Conferences
         - Started and participated in various projects for Dr. Yuksel's Lab Group with the goal of publishing in esteemed conferences
-        - Projects have included work on various Simulation Frameworks (MPM, XPBD), Collision Handling, and Rendering
+        - Projects have included work on various Simulation Frameworks (VBD, AVBD, MPM, XPBD), Collision Handling, and Rendering
 
     - title: Roblox Research Intern
       department: <a href=https://research.roblox.com/> Roblox Research </a>
@@ -48,7 +48,7 @@
 
     - title: Computer Graphics Teaching Mentorship
       institution: University of Utah
-      year: 2022-2023
+      year: 2022-2024
       description:
 
     - title: Computer Graphics Graduate Teaching Assistant
@@ -56,13 +56,34 @@
       year: 2019-2021
       description:
 
-    - title: GT Chamber Choir Student Director
-      institution: Georgia Institute of Technology
-      year: 2016-2021
-
     - title: Computer Graphics Undergraduate Teaching Assistant
       institution: Georgia Institute of Technology
       year: 2018-2019
+
+- title: Music Ensemble Experience
+  type: time_table
+  contents:
+    - title: Barbershop Harmony Society Chorus Competitor
+      year: 2012-Present
+      description:
+        - Member and Competitor with Internationally Ranked Choruses (<a href= https://www.facebook.com/thxchorus/> THX </a>, <a href=https://www.facebook.com/theprismchorus/> Prism </a>, <a href=https://atlantavocalproject.com/> Atlanta Vocal Project </a>, <a href=https://saltaires.org/> Saltaires Chorus </a>, and <a href= https://www.musiccitychorus.org/> Music City Chorus </a>)
+        - Music Team member and Section Leader
+        - Developed Rehearsal Materials, such as learning tracks
+
+    - title: Barbershop Harmony Society Quartet Competitor
+      year: 2012-Present
+      description:
+        - Member and Competitor with District Champion and International Quartet Quarterfinalist <a href= https://www.facebook.com/Q.Mischief/> Mischief </a>
+        - Member and Competitor with International Varsity Quartet Finalist <em> Scatterbrained </em>
+        - Developed Rehearsal Materials, such as learning tracks
+
+    - title: GT Chamber Choir Student Director
+      institution: Georgia Institute of Technology
+      location: Atlanta, GA
+      year: 2016-2021
+      description:
+        - Collegiate Vocal Ensemble directed by Dr. Jerry Ulrich
+        - Gained experience directing and teaching advanced repertoire for local and international performances  
 
 - title: Honors and Awards
   type: time_table

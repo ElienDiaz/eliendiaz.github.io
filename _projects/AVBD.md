@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Strand-Based Hair Rendering
-description: My contribution to this project was in designing and maintaining the PBD simulation that controls the motion of hair meshes and objects.
-img: assets/img/publication_preview/RTHairRenderingPublication.jpg
-redirect: http://cemyuksel.com/research/hairmesh_rendering/
-importance: 2
+title: Augmented Vertex Block Descent
+description: We augmented Vertex Block Descent with the Augmented Lagrangian to handle hard constraints and high stiffness ratios. This work was presented as a paper at SIGGRAPH 2025 and as a demo as part of Real Time Live!, where we were selected as the Audience Choice Winner.
+img: assets/img/publication_preview/colosseum-teaser1.jpg
+redirect: https://graphics.cs.utah.edu/research/projects/avbd/
+importance: 1
 category: University of Utah Graphics Lab
 related_publications: true
-selected: false
+selected: true
 ---
 
 Every project has a beautiful featur66666e showcase page.

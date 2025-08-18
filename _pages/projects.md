@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 description: <p> Most of my projects involve Physics-Based Simulation,
         but I have worked with some rendering research as well. 
-        I have worked extensively with Position-Based Dynamics (PBD) and 
+        I have worked extensively with <a href=https://graphics.cs.utah.edu/research/projects/vbd/> Vertex Block Descent (VBD) </a> and 
         continue to work in my lab with projects involving fluid simulation, hair simulation, and 
         soft body simulation. </p> 
 
