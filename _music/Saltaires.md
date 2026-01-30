@@ -6,5 +6,5 @@ redirect: https://youtu.be/utODJDkL-T4?si=ddgILV1bzd2d1aTE
 img: assets/img/SaltairesLogo.png
 importance: 2
 category: Performances
-selected: true
+selected: false
 ---
