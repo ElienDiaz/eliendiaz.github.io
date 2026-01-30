@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Int'l Chorus Contest 2023
-description: Performing "Deed I Do" with the Saltaires in July 2023.
-redirect: https://youtu.be/D0CLLjXd6ZA?si=W6X4Sdsyx3pfhA55
+title: Int'l Chorus Contest 2025
+description: Performing "Walkin' On Sunchine" with the Saltaires in July 2025.
+redirect: https://youtu.be/utODJDkL-T4?si=ddgILV1bzd2d1aTE
 img: assets/img/SaltairesLogo.png
 importance: 2
 category: Performances
+selected: true
 ---

@@ -7,7 +7,7 @@ description: >
 
   <p>I have experience with vocal music, piano, and some arranging! 
   These days, however, the bulk of my musical efforts goes into performing with 
-  my quartet Mischief and with making Multitracks for part learning, recently collaborating with my friend 
+  my local choruses and quartets as well as into making Multitracks for part learning, recently collaborating with my friend 
   <a href='https://www.goldengroovemusic.com/'>Grant Goulding</a> to help create learning tracks for his new arrangements.</p>
 
   <p>Read on to find past performances I've been a part of with quartets and choruses, and 
@@ -15,7 +15,7 @@ description: >
 
 image: mischief_cover.jpg
 image_circular: false
-image_caption: This is my current quartet, <a href='https://www.facebook.com/Q.Mischief'> Mischief</a>!
+image_caption: This is my 2022 Rocky Mountain District Champion Quartet, <a href='https://www.facebook.com/Q.Mischief'> Mischief</a>!
 
 nav: true
 nav_order: 4
