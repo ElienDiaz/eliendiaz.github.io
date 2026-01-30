@@ -4,7 +4,7 @@ title: Augmented Vertex Block Descent
 description: We augmented Vertex Block Descent with the Augmented Lagrangian to handle hard constraints and high stiffness ratios. This work was presented as a paper at SIGGRAPH 2025 and as a demo as part of Real Time Live!, where we were selected as the Audience Choice Winner.
 img: assets/img/publication_preview/colosseum-teaser1.jpg
 redirect: https://graphics.cs.utah.edu/research/projects/avbd/
-importance: 1
+importance: 2
 category: University of Utah Graphics Lab
 related_publications: true
 selected: true

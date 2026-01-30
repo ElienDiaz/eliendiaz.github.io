@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Strand-Based Hair Rendering
-description: My contribution to this project was in designing and maintaining the PBD simulation that controls the motion of hair meshes and objects.
-img: assets/img/publication_preview/RTHairRenderingPublication.jpg
-redirect: http://cemyuksel.com/research/hairmesh_rendering/
-importance: 3
+title: Implicit Position-Based Fluids
+description: We introduced a novel SPH scheme that uses a second-order implicit descent scheme to optimize a variational energy specially formulated to approach incompressibility.
+img: assets/img/publication_preview/ipbf.gif
+redirect: https://graphics.cs.utah.edu/research/projects/ipbf/
+importance: 1
 category: University of Utah Graphics Lab
 related_publications: true
-selected: false
+selected: true
 ---
 
 Every project has a beautiful featur66666e showcase page.
