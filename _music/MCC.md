@@ -6,4 +6,5 @@ redirect: https://youtu.be/EtA_CBqVSNY?si=vCxyRAJ4c6SLZXDG
 img: assets/img/MCC.jpg
 importance: 1
 category: Performances
+selected: true
 ---
