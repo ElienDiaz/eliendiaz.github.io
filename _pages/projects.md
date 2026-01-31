@@ -14,8 +14,8 @@ description: <p> Most of my projects involve Physics-Based Simulation,
 
 image: TeapotRenderingCompetition.png
 image_circular: false
-image_caption: My entry for this the 2025-2026 Academic Year's <a href=https://graphics.cs.utah.edu/trc/> Teapot Rendering Competition </a>, which I title "The Teapot Senate".
-        This was rendered using my very own Path Tracer, which I developed as part of the University of Utah's <a href=https://graphics.cs.utah.edu/courses/cs6620/fall2025/> Rendering with Ray Tracing <a/>
+image_caption: <i> The Teapot Senate </i>, submitted to the 2025-2026 Academic Year's <a href=https://graphics.cs.utah.edu/trc/> Teapot Rendering Competition </a>.
+        This was rendered using my very own path tracer, which I developed as part of the University of Utah's <a href=https://graphics.cs.utah.edu/courses/cs6620/fall2025/> Rendering with Ray Tracing <a/>
         course.
 
 nav: true
