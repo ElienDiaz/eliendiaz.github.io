@@ -88,6 +88,15 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2015-Present
+    - year: 2025
+      items:
+        - <i> Crazy Fast Physics! Augmented Vertex Block Descent in Action! <i/> - SIGGRAPH Real Time Live! Audience Choice Award
+    - year: 2025
+      items:
+        - International Silver Medalist Chorus - Music City Chorus
+    - year: 2022
+      items:
+        - Rocky Mountain District Quartet Champion - Mischief Quartet
+    - year: 2015-2025
       items: 
         - Gates Millennium Scholar Fellowship
