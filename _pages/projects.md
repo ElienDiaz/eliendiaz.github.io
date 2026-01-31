@@ -12,9 +12,11 @@ description: <p> Most of my projects involve Physics-Based Simulation,
         the <a href=https://graphics.cs.utah.edu/> Graphics Lab </a> at the 
         University of Utah. </p> 
 
-image: ternary.gif
+image: TeapotRenderingCompetition.png
 image_circular: false
-image_caption: This is an old simulation project where I tried to find a solution to the three body problem!
+image_caption: My entry for this the 2025-2026 Academic Year's <a href=https://graphics.cs.utah.edu/trc/> Teapot Rendering Competition </a>, which I title "The Teapot Senate".
+        This was rendered using my very own Path Tracer, which I developed as part of the University of Utah's <a href=https://graphics.cs.utah.edu/courses/cs6620/fall2025/> Rendering with Ray Tracing <a/>
+        course.
 
 nav: true
 nav_order: 3
