@@ -40,10 +40,10 @@
         - Projects have included work on various Simulation Frameworks (VBD, AVBD, MPM, XPBD), Collision Handling, and Rendering
 
     - title: Academic Reviewer
-      department: SIGGRAPH
-      department: Transactions of Visualization and Computer Graphics
+      department: SIGGRAPH, Transactions of Visualization and Computer Graphics
+      year: 2025-2026
       description:
-        - Reviewed Submissions for Technical Papers submitted to various programs
+        - Reviewed Submissions for Technical Papers
 
     - title: Roblox Research Intern
       department: <a href=https://research.roblox.com/> Roblox Research </a>
