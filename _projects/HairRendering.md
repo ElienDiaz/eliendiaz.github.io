@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Strand-Based Hair Rendering
-description: My contribution to this project was in designing and maintaining the PBD simulation that controls the motion of hair meshes and objects.
+description: Designed and maintained a Position-Based Dynamics and Vertex Block Descent simulation of Hair Meshes as part of the Hair Rendering Pipeline introduced in this project.
 img: assets/img/publication_preview/RTHairRenderingPublication.jpg
 redirect: http://cemyuksel.com/research/hairmesh_rendering/
 importance: 3
