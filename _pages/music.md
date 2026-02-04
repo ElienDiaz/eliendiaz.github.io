@@ -13,7 +13,7 @@ description: >
   <p>Read on to find past performances I've been a part of with quartets and choruses, and 
   for some of the tracks I've created. Feel free to check out my <a href='https://soundcloud.com/elie-diaz-965006234'>soundcloud</a> for more!</p>
 
-image: PitchPipe.jpg
+image: PitchPipe.ppg
 image_circular: false
 image_caption: This is a render of a tombo pitch pipe -- one of the most ubiquitous instruments used in the world of acapella singing.
 
