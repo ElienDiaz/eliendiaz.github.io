@@ -13,9 +13,9 @@ description: >
   <p>Read on to find past performances I've been a part of with quartets and choruses, and 
   for some of the tracks I've created. Feel free to check out my <a href='https://soundcloud.com/elie-diaz-965006234'>soundcloud</a> for more!</p>
 
-image: mischief_cover.jpg
+image: PitchPipe.jpg
 image_circular: false
-image_caption: This is my 2022 Rocky Mountain District Champion Quartet, <a href='https://www.facebook.com/Q.Mischief'> Mischief</a>!
+image_caption: This is a render of a tombo pitch pipe -- one of the most ubiquitous instruments used in the world of acapella singing.
 
 nav: true
 nav_order: 4
